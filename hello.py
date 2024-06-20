@@ -1,1 +1,1 @@
-pring("welcome to phython!”)
+print("welcome to phython!”)
